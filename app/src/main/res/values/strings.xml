@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DevApp_RKMVU_Centre_App</string>
+    <string name="objective1">The present University is intended to actualize Swami Vivekananda\'s fundamental educational ideas of imparting life building, man-making and character-building education by combining the best elements of the East and the West.</string>
+    <string name="objective2">The aim of the institute is to provide opportunities for education and research in various ‘thrust areas’ which are rather unconventional in nature, unique and innovative.</string>
+    <string name="objective3">Value education will therefore be an essential component in all the courses.</string>
+    <string name="thrust_objective1">These Thrust areas are ‘gap’ areas in the sense that these scarcely receive attention in other conventional Indian universities.</string>
+    <string name="thrust_objective2">These thrust areas directly benefit the common man, rural and tribal masses and underprivileged sections of the society.</string>
+    <string name="thrust_objective3">Ramakrishna Mission has developed expertise in these areas over the past decades or even a century.</string>
+    <string name="about_rkm">Ramakrishna Mission is a reputed, non-profit NGO started by Swami Vivekananda in 1897 with extensive philanthropic and charitable activities  peroformed through  more than 100 branch centres spread all over the world</string>
+    <string name="ugc_act">Ramakrishna Mission Vivekananda University, under the aegis of Ramakrishna Mission with Headquarters at Belur Math, Howrah, West Bengal, is a University delared by Government of India under section 3 of University Grants Commission (UGC) Act, 1956.</string>
+    <string name="josephice_mcloud">Swami Vivekananda envisioned a University at Belur Math. His prophetic statement in this regard as recorded by Josephine Macleod in her reminisences is now well known and oft-quoted.
+    \"The spiritual impact that has come to Belur [Math] will last fifteen hundred years, and it shall be a great University. Do not think I imagine it; I see it.\"
+    On another occasion Swamiji Wrote: \"Now the aim is to gradually develop this [Belur] Math into an all-rounded University.\"</string>
+    <string name="swamiji_on_knowledge">All knowledge that the world has ever received comes from the mind; the infinite library of the universe is in our own mind.</string>
+    <string name="about_belur_campus">Ramakrishna Mission Vivekananda University is a university that is administered by the Ramakrishna Mission. It was declared by Government of India as a Deemed University under Section 3 of UGC Act, 1956. It has five campuses in Belur, Kolkata, Coimbatore, Ranchi and Narendrapur.
+
+The university was given the status of a deemed university in July 2005. It provides courses on subjects as varied as rural and tribal development, disability management and special education, fundamental science education and Indian cultural and spiritual heritage.
+
+The university\'s School of Mathematical Science started its academic activities in July 2008. The classes are conducted at the main campus of the university at Belur and at Vivekananda Research Centre, the ancestral house of Swami Vivekananda in Kolkata.
+
+The university is also conducting these courses at its specialized faculty centers throughout the country. Other unconventional areas that the university is engaged in are disability management and special education at Coimbatore, integrated rural development including tribal development and management at its centers in Ranchi and Narendrapur.</string>
+    <string name="belur_welcome_msg">   Education is not the amount of information that we put into your brain and runs riot there, undigested, all your life. We must have life building, man making, character making assimilation of ideas. If you have assimilated five ideas and made them your life and character, you have more education than any man who has got by heart a whole library...</string>
+
+    <string-array name="outline_array">
+        <item>"Introduction"</item>
+        <item>"Aims and Objectives"</item>
+        <item>"Off-Campus At a galance"</item>
+    </string-array>
+
+    <string-array name="School_names">
+        <item>"School of Rehabilitation Sciences and Physical Education"</item>
+        <item>"School of Indian Heritage"</item>
+        <item>"School of Mathematical Sciences"</item>
+        <item>"School of Agriculture and Rural Development"</item>
+        <item>"School of Humanities and Social Sciences"</item>
+        <item>"School of Environment and Disaster Management"</item>
+    </string-array>
+</resources>
